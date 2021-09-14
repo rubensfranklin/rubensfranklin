@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rubens Franklin
+## Olá! Eu sou a Rubens Franklin
 
 <p align="justify">
   <a href="https://github.com/rubensfranklin/github-readme-stats">
@@ -33,7 +33,7 @@
 <div> 
  <br>
   <a href="https://instagram.com/Rubinhofranklin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
+ 	<br>
   <a href="https://www.linkedin.com/in/Rubensfranklin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
