@@ -1,4 +1,18 @@
 ## Oiii! Eu sou a Rubens Franklin
+
+<p align="justify">
+  <a href="https://github.com/rubensfranklin/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=rubensfranklin&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/rubensfranklin/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensfranklin&layout=compact&theme=radical" />
+  </a>  
+</p>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rubens-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
