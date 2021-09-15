@@ -1,4 +1,4 @@
-## Olá! Eu sou a Rubens Franklin
+## Olá! Eu sou o Rubens Franklin
 
 <p align="justify">
   <a href="https://github.com/rubensfranklin/github-readme-stats">
